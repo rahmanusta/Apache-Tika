@@ -24,8 +24,7 @@ import static java.nio.file.StandardOpenOption.READ;
  */
 public class App {
 
-
-    public static void main(String[] args) throws IOException, TikaException, SAXException {
+    public static void main(String[] args) throws Exception {
 
         String root = "./src/main/resources";
 
